@@ -1,4 +1,4 @@
-package structsmethodsinterfaces
+package Chapter_5
 
 import "testing"
 

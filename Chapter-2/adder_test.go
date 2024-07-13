@@ -1,4 +1,4 @@
-package intergers
+package Chapter_2
 
 import (
 	"fmt"

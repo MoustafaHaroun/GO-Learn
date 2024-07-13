@@ -1,4 +1,4 @@
-package arraysandslices
+package Chapter_4
 
 // Sum get the sum of integers in a slices returns sum total.
 func Sum(numbers []int) int {

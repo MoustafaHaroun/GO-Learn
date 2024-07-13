@@ -1,4 +1,4 @@
-package iteration
+package Chapter_3
 
 // Repeat repeats a chars n amount of times and returns the concatenate string.
 func Repeat(char string, times int) string {

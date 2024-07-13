@@ -1,4 +1,4 @@
-package arraysandslices
+package Chapter_4
 
 import (
 	"fmt"

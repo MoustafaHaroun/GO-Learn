@@ -102,7 +102,7 @@ func assertDefinition(t testing.TB, dictonary Dictonary, word, definition string
 	got, err := dictonary.Search(word)
 
 	if err != nil {
-		t.Fatal("Should find word:", err)
+		t.Fatal("Should find word: ", err)
 	}
 
 	assertStrings(t, got, definition)
